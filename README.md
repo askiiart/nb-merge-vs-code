@@ -1,0 +1,1 @@
+This is a VS Code extension that uses nbdime to merge Jupyter notebooks. It is currently just a python script (the backend), as I haven't made it into an extension yet.
